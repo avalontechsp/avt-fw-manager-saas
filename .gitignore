@@ -1,0 +1,10 @@
+# >>> firmware-catalog ignore >>>
+# Firmware Catalog — large payloads stay local
+*.iso
+*.img
+*.zip
+*.bin
+*.wim
+*.esd
+*.exe
+# <<< firmware-catalog ignore <<<
